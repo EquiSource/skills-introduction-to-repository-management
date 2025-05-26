@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @EquiSource
+/src/backend/database.py      @EquiSource
+/src/backend/routers/auth.py  @EquiSource
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @EquiSource
